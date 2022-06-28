@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Partials", "..\Partials+Sta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stackalloc", "..\Stackalloc\Stackalloc.csproj", "{272DA487-780E-404A-9234-C42B998139B5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptions", "Exceptions\Exceptions.csproj", "{4547D9BD-6698-4A91-B480-F2EE77B8A898}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionExceptions", "Exceptions\ExpressionExceptions.csproj", "{4547D9BD-6698-4A91-B480-F2EE77B8A898}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicBinding", "DynamicBinding\DynamicBinding.csproj", "{DF89C0B3-2BBF-4714-9EAE-2D9451E3D3BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicBinding", "DynamicBinding\DynamicBinding.csproj", "{DF89C0B3-2BBF-4714-9EAE-2D9451E3D3BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
